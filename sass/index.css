@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/**注释**/
+body {
+  font-size: 20px; }
+
+div {
+  width: 100%;
+  height: 100px;
+  background: #99f;
+  font-size: 20px; }
+  div p {
+    width: 100%;
+    font-size: 20px;
+    line-height: 100px;
+    text-align: center; }
+    div p span {
+      color: #c00000; }
+      div p span:hover {
+        color: #fff; }
+
+/*# sourceMappingURL=index.css.map */
